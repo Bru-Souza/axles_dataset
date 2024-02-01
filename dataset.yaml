@@ -1,0 +1,7 @@
+train: ./train/images
+val: ./val/images
+test: ./test/images
+
+# Classes
+nc: 6  # number of classes
+names: ['car','motorcycle','truck','bus','wheel','motorcycle_wheel']  # class names
